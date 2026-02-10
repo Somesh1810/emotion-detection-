@@ -22,7 +22,7 @@ The application is deployed using **Streamlit**, making it accessible directly f
 
 Try the deployed application here:
 
-**[Open the App](PASTE_YOUR_STREAMLIT_LINK_HERE)**
+**[Open the App](https://3dkmzihev7n3y6t272fhrc.streamlit.app/)**
 
 > No installation required — runs directly in your browser.
 
